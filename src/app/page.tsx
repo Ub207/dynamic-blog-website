@@ -1,9 +1,13 @@
+import Hero from '@/components/Hero'
+import React from 'react'
 
-export default function Home() {
+const Homepage = () => {
   return (
     <div>
-      <h1>hello world</h1>
+
+      <Hero />
     </div>
-  
-  );
-};
+  )
+}
+
+export default Homepage
