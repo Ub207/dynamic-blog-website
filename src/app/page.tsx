@@ -1,3 +1,4 @@
+import CommentSection from '@/components/CommentSection'
 import Hero from '@/components/Hero'
 import React from 'react'
 
@@ -6,6 +7,7 @@ const Homepage = () => {
     <div>
 
       <Hero />
+      <CommentSection/> 
     </div>
   )
 }
