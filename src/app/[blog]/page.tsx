@@ -26,7 +26,7 @@ export default function page() {
           Summary
         </h2>
         <p className="text-base md:text-xl leading-relaxed text-justify text-dark/80 dark:text-light/80">
-          Buying a car is a significant decision, and it's essential to consider factors like your budget, the car's fuel efficiency, maintenance costs, and resale value. Decide whether you need a new or used car based on your needs. Research the features, reliability, and reviews of the models you are considering. A thorough test drive and inspection are crucial before finalizing the purchase.
+          Buying a car is a significant decision, and It&apos;s essential to consider factors like your budget, the car's fuel efficiency, maintenance costs, and resale value. Decide whether you need a new or used car based on your needs. Research the features, reliability, and reviews of the models you are considering. A thorough test drive and inspection are crucial before finalizing the purchase.
         </p>
       </section>
 
